@@ -1,3 +1,6 @@
+
+https://alonsocortes.github.io/01_qr-code-component/
+
 # Frontend Mentor - QR code component
 
 ![Design preview for the QR code component coding challenge](./preview.jpg)
